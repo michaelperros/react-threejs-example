@@ -18,7 +18,7 @@ This project is an example of a React application using Three.js with dynamic sh
 
 2. Navigate to the project directory:
     ```
-    cd repository
+    cd react-threejs-example
     ```
 
 3. Install dependencies:
